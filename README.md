@@ -4,6 +4,19 @@
 
 Welcome to my Github Profile
 
+## I'm a Developer, Youtuber and Gamer!
+
+
+### Connect with me:
+
+
+###
+[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+###
+
+
 ### Languages and Tools I use:
 
 [<code>
@@ -12,12 +25,6 @@ Welcome to my Github Profile
 [<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
@@ -31,20 +38,11 @@ Welcome to my Github Profile
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
 [<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
@@ -80,6 +78,9 @@ Welcome to my Github Profile
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
+[twitter]: https://twitter.com/sababuvercetti
+[instagram]: https://www.instagram.com/sababuvercetti
+[linkedin]: https://www.linkedin.com/in/sababuvercetti
 
 <a href="https://github.com/sababuvercetti">
 <img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sababuvercetti&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
@@ -87,23 +88,5 @@ Welcome to my Github Profile
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sababuvercetti&layout=compact&theme=radical" />
 </a>
 
----
 
-[twitter]: https://twitter.com/sababuvercetti
-[instagram]: https://www.instagram.com/sababuvercetti
-[linkedin]: https://www.linkedin.com/in/sababuvercetti
----
-<!--
-**sababuvercetti/sababuvercetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
