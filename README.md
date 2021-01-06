@@ -4,7 +4,8 @@
 
 Welcome to my Github Profile
 
-## I'm a Developer, Youtuber and Gamer!
+## I'm a Developer, Youtuber and Drummer!
+
 
 
 ### Connect with me:
