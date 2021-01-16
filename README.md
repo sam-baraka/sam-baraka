@@ -1,6 +1,6 @@
 ### Hi there I'm Sam 👋
 
-![alt text](https://thecodinglove.com/content/043/rF8xPzo.webm)
+![alt text](https://media.tenor.com/images/12da0a6dbde4f2b2acd223d3533f8438/tenor.gif)
 
 Welcome to my Github Profile
 
