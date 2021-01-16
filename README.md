@@ -2,6 +2,8 @@
 
 ![alt text](https://media.tenor.com/images/12da0a6dbde4f2b2acd223d3533f8438/tenor.gif)
 
+<div class="tenor-gif-embed" data-postid="7603564" data-share-method="host" data-width="100%" data-aspect-ratio="1.7777777777777777"><a href="https://tenor.com/view/programmer-programming-computer-typing-gif-7603564">Programmer Programming GIF</a> from <a href="https://tenor.com/search/programmer-gifs">Programmer GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 Welcome to my Github Profile
 
 ## I'm a Developer, Youtuber and Drummer!
