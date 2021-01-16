@@ -1,6 +1,6 @@
 ### Hi there I'm Sam 👋
 
-![alt text](https://tenor.com/view/programmer-programming-computer-typing-gif-7603564)
+![alt text](https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif)
 
 
 Welcome to my Github Profile
