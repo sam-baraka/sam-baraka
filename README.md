@@ -5,7 +5,7 @@
 
 Welcome to my Github Profile
 
-## I'm a Developer, Youtuber and Drummer!
+## I'm a Mobile App Developer
 
 
 
