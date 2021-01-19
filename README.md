@@ -35,6 +35,16 @@ Welcome to my Github Profile
 [<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
+[
+<code>
+  <a><img align="left" alt="Flutter" width="30px" src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" /><a/>
+</code>
+]
+    [
+<code>
+<a><img align="left" alt="Dart" width="30px" src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" /><a/>
+</code>
+]
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
