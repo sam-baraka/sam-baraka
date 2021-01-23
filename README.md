@@ -5,8 +5,6 @@
 
 Welcome to my Github Profile
 
-## I'm a Mobile App Developer
-
 
 
 ### Connect with me:
