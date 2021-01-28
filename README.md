@@ -5,6 +5,9 @@
 
 Welcome to my Github Profile
 
+- I build stuff with code(Dart,C#,Kotlin and GO(Learner)).
+- :tv: watch me [on my channel](https://www.youtube.com/channel/UCqrK_qUx6OZWxjHOVmZ8Pyg)
+- Fun facts: I love cats , games, cooking ,story telling and hiking.
 
 
 ### Connect with me:
