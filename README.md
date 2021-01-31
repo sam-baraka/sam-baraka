@@ -14,9 +14,9 @@ Welcome to my Github Profile
 
 
 ###
-[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png" />][twitter]
+[<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 ###
 <br />
 
