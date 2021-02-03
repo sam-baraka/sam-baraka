@@ -7,7 +7,7 @@ Welcome to my Github Profile
 
 - I make stuff happen with code(Dart,C#,Kotlin and GO(Learner)).
 - <img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" /> watch me [on my channel](https://www.youtube.com/channel/UCqrK_qUx6OZWxjHOVmZ8Pyg)
-- Fun facts: I love cats , games, cooking ,story telling and hiking.
+- I love cats , games, cooking ,story telling and hiking.
 
 
 ### Connect with me:
