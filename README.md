@@ -5,7 +5,7 @@
 
 Welcome to my Github Profile
 
-- I make do Dart,C#,Kotlin and GO(Learner).
+- I do Dart,C#,Kotlin and GO(Learner).
 - <img align="left" alt="Sabesan | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" /> watch me [on my channel](https://www.youtube.com/channel/UCqrK_qUx6OZWxjHOVmZ8Pyg)
 - I love cats , games, cooking ,story telling and hiking.
 
