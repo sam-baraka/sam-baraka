@@ -1,6 +1,6 @@
 ### Hi there I'm Sam 👋
 
-![alt text](https://media.giphy.com/media/xUPGcyi4YxcZp8dWZq/giphy.gif)
+![alt text](https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif)
 
 
 Welcome to my Github Profile
