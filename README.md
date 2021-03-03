@@ -1,4 +1,4 @@
-### Hi there I'm Sam 👋
+### Hey👋, Sam here
 
 ![alt text](https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif)
 
