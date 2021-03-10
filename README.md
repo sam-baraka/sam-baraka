@@ -9,6 +9,7 @@ Welcome to my Github Profile
 - I love open source technologies.
 - <img align="left" alt="Sababuvercetti | Youtube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" /> watch me [on my channel](https://www.youtube.com/channel/UCqrK_qUx6OZWxjHOVmZ8Pyg).
 - I love cats , games, cooking ,story telling and hiking.
+- I'm making an open source [podcast app](https://github.com/sababuvercetti/podcastic), feel free to contribute.
 
 
 ### Connect with me:
