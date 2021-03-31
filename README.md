@@ -3,7 +3,7 @@
 ![alt text](https://i.imgur.com/6hcbSj8.gif)
 
 
-- <img align="left" alt="Sababuvercetti | Youtube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" /> watch me [on my channel](https://www.youtube.com/channel/UCqrK_qUx6OZWxjHOVmZ8Pyg).
+- <img align="left" alt="Sababuvercetti | Youtube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" /> checkout  [my YouTube channel](https://www.youtube.com/channel/UCqrK_qUx6OZWxjHOVmZ8Pyg).
 - I'm making an open source [podcast app](https://github.com/sababuvercetti/podcastic), feel free to contribute.
 - I'm making an open source [meme😂 app](https://github.com/sababuvercetti/meem), feel free to contribute.
 - I'm making an open source [cat😼 app](https://github.com/sababuvercetti/el_gato), feel free to contribute.
