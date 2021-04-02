@@ -1,4 +1,4 @@
-### Hey👋, Sam here, software engineer from Kenya
+### Hey👋, Sam here, software developer from Kenya
 
 ![alt text](https://i.imgur.com/6hcbSj8.gif)
 
