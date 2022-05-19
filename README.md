@@ -28,11 +28,11 @@
 [linkedin]: https://www.linkedin.com/in/sababuvercetti
 [facebook]: https://www.facebook.com/people/Samuel-Baraka-Bushuru/100004990895661/
 
-### :octocat: My stats
+###My stats
   <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=sababuvercetti&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-     <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EricRootLee&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+     <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sababuvercetti&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
     
     
 
