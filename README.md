@@ -28,8 +28,16 @@
 [linkedin]: https://www.linkedin.com/in/sababuvercetti
 [facebook]: https://www.facebook.com/people/Samuel-Baraka-Bushuru/100004990895661/
 
-<a href="https://github.com/sababuvercetti">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sababuvercetti&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+### :octocat: My stats
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=sababuvercetti&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
+     <td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EricRootLee&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+    
+    
+
+
+
 <a href="https://github.com/sababuvercetti">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sababuvercetti&layout=compact&theme=radical" />
 </a>
