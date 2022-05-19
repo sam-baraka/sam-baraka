@@ -6,7 +6,7 @@
 
 - I'm making an open source [podcast app](https://github.com/sababuvercetti/podcastic), feel free to contribute.
 - I'm making an open source [meme😂 app](https://github.com/sababuvercetti/meem), feel free to contribute.
-- I'm making an open source [cat😼 app](https://github.com/sababuvercetti/el_gato), and its [backend](https://github.com/sababuvercetti/ElGatoBackend) feel free to contribute.
+- I'm making an open source [cat😼 app](https://github.com/sababuvercetti/el_gato) and its [backend](https://github.com/sababuvercetti/ElGatoBackend), feel free to contribute.
 
 
 ### Connect with me:
