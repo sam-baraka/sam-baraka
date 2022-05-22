@@ -1,6 +1,6 @@
 ### Hey👋, Sam here, software developer from Kenya
 
-![alt text](https://media.giphy.com/media/Z1kpfgtHmpWHS/giphy.gif)
+![alt text](CoordinatedSentimentalAbyssiniangroundhornbill.webp)
 
 
 
