@@ -1,13 +1,13 @@
 ### Hey👋, Sam here, software developer from Kenya
 
-<img align="center" src="https://i.gifer.com/UyBy.gif"/>
-
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - I'm making an open source [podcast app](https://github.com/sababuvercetti/podcastic), feel free to contribute.
 - I'm making an open source [meme😂 app](https://github.com/sababuvercetti/meem), feel free to contribute.
 - I'm making an open source [cat😼 app](https://github.com/sababuvercetti/el_gato) and its [backend](https://github.com/sababuvercetti/ElGatoBackend), feel free to contribute.
 
+
+![Alt Text](https://i.gifer.com/UyBy.gif)
 
 ### Connect with me:
 
