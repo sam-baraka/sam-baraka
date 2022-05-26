@@ -24,9 +24,7 @@
 ---
 
 [twitter]: https://twitter.com/sababuvercetti
-[instagram]: https://www.instagram.com/sababuvercetti
 [linkedin]: https://www.linkedin.com/in/sababuvercetti
-[facebook]: https://www.facebook.com/people/Samuel-Baraka-Bushuru/100004990895661/
 
 
 <table>
