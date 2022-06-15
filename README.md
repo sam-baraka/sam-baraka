@@ -26,10 +26,7 @@
 [linkedin]: https://www.linkedin.com/in/sababuvercetti
 
 
-<table>
-<tr>
-<td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=sababuvercetti&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
-<td><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sababuvercetti&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+<img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=sababuvercetti&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sababuvercetti&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 <a href="https://github.com/sababuvercetti">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sababuvercetti&layout=compact&theme=radical" />
 </a>
