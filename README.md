@@ -5,8 +5,8 @@
 - I'm [learning swift](https://github.com/sababuvercetti/learn_swift) and [jetpack compose](https://github.com/sababuvercetti/kotlin_compose), feel free to contribute.
 - I'm making an open source [podcast app](https://github.com/sababuvercetti/podcastic), feel free to contribute.
 - I'm making an open source [meme😂 app](https://github.com/sababuvercetti/meem), feel free to contribute.
-- I'm making an open source [cat😼 app](https://github.com/sababuvercetti/el_gato) and its [backend](https://github.com/sababuvercetti/ElGatoBackend), feel free to contribute.
-
+- I'm making an open source [cat😼 app with flutter](https://github.com/sababuvercetti/el_gato) and another one in [Swift UI](https://github.com/sababuvercetti/Elgato-Swift) and its [backend in .NET core](https://github.com/sababuvercetti/ElGatoBackend), feel free to contribute.
+- I do data structures and algorithms for [here](https://github.com/sababuvercetti/data_structures_practice)
 
 ![Alt Text](https://i.gifer.com/UyBy.gif)
 
