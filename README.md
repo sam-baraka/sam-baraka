@@ -22,6 +22,9 @@
 [linkedin]: https://www.linkedin.com/in/sam-baraka
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=terrybmochire&cover_image=true&theme=default&show_offline=false&background_color=121212)]()
+
+
 <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=sam-baraka&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-baraka&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 <a href="https://github.com/sam-baraka">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sam-baraka&layout=compact&theme=radical" />
