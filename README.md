@@ -1,7 +1,7 @@
 ### <h2><img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"/> Hey👋, Sam here,
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-- I'm making an open source [cat😼 app with flutter](https://github.com/sam-baraka/el_gato) and another one in [Swift UI](https://github.com/sam-baraka/Elgato-Swift) and its [backend in .NET core](https://github.com/sam-baraka/ElGatoBackend), feel free to contribute.
+- I'm doing random software engineering here and there
 - I do data structures and algorithms for [here](https://github.com/sam-baraka/data_structures_practice)
 
 ![Alt Text](https://i.gifer.com/UyBy.gif)
