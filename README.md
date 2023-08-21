@@ -21,7 +21,8 @@
 [twitter]: https://twitter.com/sam-baraka
 [linkedin]: https://www.linkedin.com/in/sam-baraka
 
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=31xomxvwdj32y7cbgj7wbbseancm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31xomxvwdj32y7cbgj7wbbseancm&cover_image=true&theme=default&show_offline=false&background_color=616161&interchange=true)]
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xomxvwdj32y7cbgj7wbbseancm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31xomxvwdj32y7cbgj7wbbseancm&redirect=true)
 
 
 <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=sam-baraka&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/><img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-baraka&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
