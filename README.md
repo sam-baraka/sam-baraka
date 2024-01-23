@@ -2,7 +2,7 @@
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - I'm doing random software engineering here and there
-- I do data structures and algorithms for [here](https://github.com/sam-baraka/data_structures_practice)
+- I do data structures and algorithms [here](https://github.com/sam-baraka/data_structures_practice)
 
 ![Alt Text](https://i.gifer.com/UyBy.gif)
 
