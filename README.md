@@ -4,11 +4,12 @@
 
 ## About Me
 
-I'm a software engineer passionate about building elegant solutions to complex problems. When I'm not coding, you'll find me diving deep into data structures and algorithms.
+I'm a software engineer passionate about building elegant solutions to complex problems. When I'm not coding, you'll find me at Village Market or Sarit Center playing pool, bowling, hitting the F1 simulator, or watching a movie.
 
 - 🔭 Currently working on various software engineering projects
-- 📚 Practicing DSA and problem-solving
-- 💻 Always learning and exploring new technologies
+- ⚙️ Learning systems programming
+- 🤖 Passionate about Agent to Agent Protocol and real-world implementations
+- 💻 Always exploring new technologies
 
 ## GitHub Stats 📊
 
